@@ -7,3 +7,5 @@ Hope you will enjoy!
 01 https://danilmakarow.github.io/01-watches/
 
 02 https://danilmakarow.github.io/02-chairs/
+
+03 https://danilmakarow.github.io/03-OMNIFOOD/ - in progress
