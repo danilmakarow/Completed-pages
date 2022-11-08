@@ -6,7 +6,7 @@ Hope you will enjoy!
 
 
 
-06 https://danil-piggame.netlify.app/- 
+06 https://danil-piggame.netlify.app/ 
 
 05 https://danil-guessmynumber.netlify.app/ - `a simple small game, first project built using js`
 
