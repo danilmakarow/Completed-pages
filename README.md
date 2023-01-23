@@ -4,7 +4,7 @@ Its a list of projects created by me
 
 Hope you will enjoy!
 
-
+07 https://danilmakarow.github.io/bankist-app/ - `first real-life web-app and project completed 100% by myself`
 
 06 https://danil-piggame.netlify.app/ - `another mini-game built with js`
 
