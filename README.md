@@ -6,7 +6,7 @@ Hope you will enjoy!
 
 
 
-06 https://danil-piggame.netlify.app/ 
+06 https://danil-piggame.netlify.app/ - `another mini-game built with js`
 
 05 https://danil-guessmynumber.netlify.app/ - `a simple small game, first project built using js`
 
@@ -16,4 +16,4 @@ Hope you will enjoy!
 
 02 https://danilmakarow.github.io/01-watches/
 
-01 https://danilmakarow.github.io/02-chairs/
+01 https://danilmakarow.github.io/02-chairs/ - `a first created website`
