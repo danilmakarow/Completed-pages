@@ -1,19 +1,35 @@
 # Portfolio
 
-Its a list of projects created by me
+08 https://project-echo-01.web.app/chat
 
-Hope you will enjoy!
+Останній й наскладніший проект, що зробив під час стажування - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД. 
 
-#### 07 ⭐ https://danilmakarow.github.io/bankist-app/ - `first real-life web-app and project completed 100% by myself`
+##
 
-06 https://danil-piggame.netlify.app/ - `another mini-game built with js`
+07 https://danilmakarow.github.io/bankist-app/
 
-05 https://danil-guessmynumber.netlify.app/ - `a simple small game, first project built using js`
+Перший великий проект на нативному JS. Написаний функціональним програмуванням, перший проект що я розробляв самостійно.
 
-#### 04 ⭐ https://danilmakarow.github.io/03-OMNIFOOD/ - `first well designed website with fully adaptation` <a href="https://omnifood.dev/"> `en ver` </a>
+##
 
-03 https://danil-university-project1.netlify.app/ - `a small project build for university`
+06 https://danil-piggame.netlify.app/
+
+05 https://danil-guessmynumber.netlify.app/ 
+
+Дві міні гри, на яких вчився основам програмування.
+
+##
+
+04 https://danilmakarow.github.io/03-OMNIFOOD/ 
+
+Великий сайт - візитівка, в якому я застосував всі знання з верстки й адаптиву<a href="https://omnifood.dev/"> `en ver` </a>
+
+##
+
+03 https://danil-university-project1.netlify.app/ 
 
 02 https://danilmakarow.github.io/01-watches/
 
-01 https://danilmakarow.github.io/02-chairs/ - `a first created website`
+01 https://danilmakarow.github.io/02-chairs/ 
+
+Перші проекти, на яких вчився верстці сайтів
