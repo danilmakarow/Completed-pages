@@ -1,8 +1,15 @@
 # Portfolio
 
+08 https://danilmakarow.github.io/currencyConverter/
+
+Конвертор валют - Тестове завдання, курс береться з API.
+<a href="https://github.com/danilmakarow/currencyConverter">Source code</a>
+
+
 08 https://project-echo-01.web.app/chat
 
-Останній й наскладніший проект, що зробив під час стажування - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД. <strong>Спробуйте відправити декілька повідомлень в тестовий чат!</strong> <a href="https://github.com/danilmakarow/echo">Source code</a>
+Найкрупніший й наскладніший проект, що зробив під час стажування - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД.
+<a href="https://github.com/danilmakarow/echo">Source code</a>
 
 
 ##
