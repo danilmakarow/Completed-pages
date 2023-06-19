@@ -10,7 +10,7 @@
 
 08 https://project-echo-01.web.app/chat
 
-Найкрупніший й наскладніший написаний проект - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД.
+Echo - Найкрупніший й наскладніший написаний проект - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД.
 <a href="https://github.com/danilmakarow/echo">Source code</a>
 
 
