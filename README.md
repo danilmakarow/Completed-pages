@@ -1,8 +1,16 @@
 # Portfolio
 
+### Тестові
+
+10  https://danilmakarow.github.io/WeatherForecast/
+
+Прогноз погоди - Прогноз по обраному місту, міста та прогноз беруться з API.
+<a href="https://github.com/danilmakarow/WeatherForecast/tree/master">Source code</a>
+
+
 09 https://danilmakarow.github.io/currencyConverter/
 
-Конвертор валют - Тестове завдання, курс береться з API.
+Конвертер валют - Додаток для конвертації валют з звичайними валютами та криптовалютами, дані беруться з API.
 <a href="https://github.com/danilmakarow/currencyConverter">Source code</a>
 
 ##
