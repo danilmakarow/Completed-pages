@@ -2,7 +2,7 @@
 
 ### Тестові завдання
 
-11  https://danilmakarow.github.io/neo/
+12  https://danilmakarow.github.io/neo/
 
 NEO monitoring - відображає космічні об'єкти, що наближаються до Землі, за днями. Дані беруться з офіційного API NASA.
 <a href="https://github.com/danilmakarow/neo">Source code</a>
