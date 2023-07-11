@@ -1,22 +1,40 @@
 # Portfolio
 
-### Тестові
+### Тестові завдання
+
+11  https://danilmakarow.github.io/neo/
+
+NEO monitoring - відображає космічні об'єкти, що наближаються до Землі, за днями. Дані беруться з офіційного API NASA.
+<a href="https://github.com/danilmakarow/neo">Source code</a>
+
+<strong> Stack: React, Vite, React hooks, Redux Toolkit, Material UI, Github </strong>
+
+<br/>
 
 11  https://danilmakarow.github.io/MatchBlitz/
 
 Гра зі сірниками - де ігрок з АІ по черзі беруть 1-3 сірники з коробка, пока вони не закінчаться. В кого в кінці залишається парна кількість сірників - виграє. Кількість сірників, варіація вибору й перший хід обираються ігроком.
 <a href="https://github.com/danilmakarow/MatchBlitz">Source code</a>
 
+<strong> Stack: Angular 15, RxJs, Material UI, Github </strong>
+
+<br/>
+
 10  https://danilmakarow.github.io/WeatherForecast/
 
 Прогноз погоди - Прогноз по обраному місту, міста та прогноз беруться з API.
 <a href="https://github.com/danilmakarow/WeatherForecast/tree/master">Source code</a>
 
+<strong> Stack: Angular 15, RxJs, Material UI, Github </strong>
+
+<br/>
 
 09 https://danilmakarow.github.io/currencyConverter/
 
 Конвертер валют - Додаток для конвертації валют з звичайними валютами та криптовалютами, дані беруться з API.
 <a href="https://github.com/danilmakarow/currencyConverter">Source code</a>
+
+<strong> Stack: Angular 15, RxJs, Material UI, Github </strong>
 
 ##
 
@@ -26,6 +44,7 @@
 Echo - Найкрупніший й наскладніший написаний проект - мессенджер. Використовував Angular 15 в связці з Firebase Firestore як БД.
 <a href="https://github.com/danilmakarow/echo">Source code</a>
 
+<strong> Stack: Angular 15, RxJs, Material UI, Firebase (Firestore, Authefication, Hoisting), Github </strong>
 
 ##
 
